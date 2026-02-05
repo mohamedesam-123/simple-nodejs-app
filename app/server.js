@@ -49,8 +49,8 @@ app.get('/', (req, res) => {
         <body>
             <div class="container">
                 <h1>Welcome to My Node.js Application</h1>
-                <p class="highlight">Hello, World!</p>
-                <p>I am <span class="highlight">DEPI- DevOps learner</span>.</p>
+                <p class="highlight">Hello, Iam Mohamed !</p>
+                <p>I am <span class="highlight">GCamp learner</span>.</p>
                 <p>This is a <span class="highlight">nodejs app</span> for testing!</p>
                 <!-- Add the animated GIF below -->
                 <img src="https://gifdb.com/images/high/energetic-leonardo-dicaprio-celebration-dance-0dz1c60cw9lemqiq.webp" alt="Celebration GIF" style="width: 300px; height: auto;">
