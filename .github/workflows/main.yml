@@ -28,7 +28,7 @@ jobs:
         with:
                 host: ${{ secrets.PUBLIC_IP }}
                 username: ${{ secrets.NAME }}
-                key: ${{ secrets.PRIVATE_KEY }}
+                key: ${{ secrets.PRIAVTE_KEY }}
                 script: |
                    docker pull mohamedesam123/gcamp_team1
                    docker stop nodejs || true 
